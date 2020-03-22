@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+section#BemVindo aside#estaSouEu {
+    background-color: ghostwhite;
+    display: block;
+    float: left;
+    width: 450px;
+}
+
+section h3 {
+    margin: 2px;
+    text-align: center
+}
+
+img#minhaFoto {
+    width: 130px;
+    position: center;
+    border-style: solid;
+    margin-top: 20px;
+}
+
