@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
 
 body {
-    background-image: url("../_Imagens/fundo.jpg");
+    background-image: url("../imagens/fundo.jpg");
     font-family: Gotu, sans-serif;
     padding-right: 400px;
     padding-left: 400px;
