@@ -15,10 +15,7 @@ p {
     margin: 15px;
     text-indent: 50px;
 }
-b{
-    font-size: 20px;
-    font-weight: bolder;
-}
+
 section {
     background-color: ghostwhite;
     display: block;
@@ -47,7 +44,7 @@ nav#menu ul {
 nav#menu li {
     display: block;
     background-color: ghostwhite;
-    padding: 10px;
+    padding: 30px;
     margin: 2px 2px 7px;
     text-align: center;
 }
