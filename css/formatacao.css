@@ -44,7 +44,7 @@ nav#menu ul {
 nav#menu li {
     display: block;
     background-color: ghostwhite;
-    padding: 30px;
+    padding: 10px 30px;
     margin: 2px 2px 7px;
     text-align: center;
 }
