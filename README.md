@@ -12,6 +12,7 @@ e para isso só é preciso realizar o cadastro no site.
 
 Sugestões para adições de sites são sempre bem vindas.
 
+##### Acesse o site no link <https://lelepg.github.io/Site_de_cursos/>
 ##### Contato : lpgarcez@inf.ufpel.edu.br
 
 ##### Atualizado em Março/2020
